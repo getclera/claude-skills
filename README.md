@@ -34,6 +34,17 @@ Every skill's full prompt is in the repo — click into a bundle folder, then `s
 | **Recruitment** | [rubric-builder](./recruitment/skills/rubric-builder/) · [jd-writer](./recruitment/skills/jd-writer/) · [cv-screener](./recruitment/skills/cv-screener/) · [interview-questions](./recruitment/skills/interview-questions/) · [call-scorer](./recruitment/skills/call-scorer/) · [outreach-personalizer](./recruitment/skills/outreach-personalizer/) · [offer-letter](./recruitment/skills/offer-letter/) · [rejection-writer](./recruitment/skills/rejection-writer/) · [hiring-brief](./recruitment/skills/hiring-brief/) · [competitor-talent-intel](./recruitment/skills/competitor-talent-intel/) |
 | **Interview** | [interview-prep-dossier](./interview/skills/interview-prep-dossier/) · [interviewer-dossier](./interview/skills/interviewer-dossier/) · [interviewer-research](./interview/skills/interviewer-research/) · [strengths-and-gaps](./interview/skills/strengths-and-gaps/) · [story-bank-builder](./interview/skills/story-bank-builder/) · [career-pivot-translator](./interview/skills/career-pivot-translator/) · [startup-career-finder](./interview/skills/startup-career-finder/) · [comp-negotiation](./interview/skills/comp-negotiation/) · [offer-decision-tool](./interview/skills/offer-decision-tool/) · [application-post-mortem](./interview/skills/application-post-mortem/) |
 
+## More Free Tools from Clera
+
+Beyond these Claude skills, Clera offers free tools for job seekers:
+
+- **[Salary Calculator](https://www.getclera.com/worth)** — Find out what you're worth in the startup market based on role, level, and location.
+- **[Resume Review](https://www.getclera.com/resume-review)** — Get instant AI feedback on your resume — what's strong, what to cut, what's missing.
+- **[Startup Map](https://map.getclera.com)** — Browse startups hiring near you on an interactive map.
+- **[Discover Jobs](https://www.getclera.com/jobs/discover)** — Swipe through startup jobs matched to your preferences.
+- **[Browse Jobs](https://www.getclera.com/jobs)** — Search open roles across hundreds of startups.
+- **[Browse Companies](https://www.getclera.com/companies)** — Explore startup profiles, team size, funding, and open positions.
+
 ## License
 
 MIT
