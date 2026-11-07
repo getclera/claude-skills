@@ -18,6 +18,8 @@ Open-source [Claude skills](https://support.anthropic.com/en/articles/11147069-w
 
 ### [Agentic ToDo in Claude](./agentic-todo/) — for founders & busy operators
 
+![Agentic ToDo in Claude](./agentic-todo/assets/banner.png)
+
 A persistent todo list inside Claude that fills itself. Claude scans your email, Slack (including saved messages), meeting notes and calendar on a schedule and suggests todos you accept or dismiss. Every task has a **Do it** button that hands Claude the context and a plan.
 
 **[Download agentic-todo.zip](https://github.com/getclera/claude-skills/releases/latest/download/agentic-todo.zip)**
