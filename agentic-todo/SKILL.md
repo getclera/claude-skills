@@ -10,6 +10,8 @@ description: >
 
 # Agentic ToDo in Claude
 
+![Agentic ToDo in Claude](./assets/banner.png)
+
 A private todo page published as a claude.ai artifact, backed by the artifact database so it persists across devices and redesigns, plus a scheduled task that suggests new todos from the user's tools.
 
 What the user gets:
