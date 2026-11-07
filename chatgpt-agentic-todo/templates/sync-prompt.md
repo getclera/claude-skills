@@ -8,7 +8,7 @@ Find NEW, genuinely actionable tasks owned by the user and add up to 10 unique e
 Before scanning:
 1. Read the complete Page (or all task sections) using connected ChatGPT Space tools. Collect every ID/title in Suggested, Today, This week, Later, Done and Dismissed. Preserve all states and all existing edits.
 2. Read messages and events since the last successful scan; first-run lookback up to 7 days, weekends included. Use only available and authorized connectors: Gmail inbox + starred/marked followups; Slack DMs, mentions and *all still-open saved messages*; Granola meeting notes with transcript as needed; upcoming calendar prep. Search recent conversation context if available. Never guess a source.
-3. Exclude newsletters, outreach blasts, already answered items, delegated items, vague ideas, obsolete work, and duplicates across any status. Cross-check for existing relevant automations to avoid redundant manual tasks.
+3. **Ownership is a hard gate:** verify the current user is the addressee or accountable assignee. Exclude tasks initiated or owned by other colleagues or founders, even when the messages appear in shared workspaces or recent conversation context. If ownership is unclear, omit the item; do not merely mark it needs verification. Exclude newsletters, outreach blasts, already answered items, delegated items, vague ideas, obsolete work, and duplicates across any status. Cross-check for existing relevant automations to avoid redundant manual tasks.
 
 For each accepted suggestion, append:
 - Stable new ID AT-### (unique by observing the Page), imperative title <80 chars, P0/P1/P2 and recommended Today/This week/Later;
