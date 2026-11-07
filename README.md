@@ -1,4 +1,4 @@
-# Claude Skills by Clera
+# FREE Claude Skills by Clera
 
 Open-source [Claude skills](https://support.anthropic.com/en/articles/11147069-what-are-skills) for hiring and career prep. Built by [Clera](https://getclera.com) — the AI-native hiring platform for startups.
 
