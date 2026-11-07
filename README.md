@@ -22,6 +22,12 @@ A persistent todo list inside Claude that fills itself. Claude scans your email,
 
 **[Download agentic-todo.zip](https://github.com/getclera/claude-skills/releases/latest/download/agentic-todo.zip)**
 
+### [Agentic ToDo for ChatGPT](./chatgpt-agentic-todo/) — private task dashboard and follow-up inbox
+
+A ChatGPT adaptation of the Claude workflow, using a private ChatGPT Page for persistent tasks and an optional read-only dashboard. Finds actionable suggestions from connected sources or recent conversations, with deduplication, priority, source context, and explicit verification status. Scheduling is optional and subject to ChatGPT automation limits. **This repository contains only templates, never private tasks.**
+
+Read [SKILL.md](./chatgpt-agentic-todo/SKILL.md) for setup and limitations.
+
 ## How to Install
 
 1. **Enable skills.** Claude.ai → Settings → Capabilities → toggle on "Code execution and file creation."
