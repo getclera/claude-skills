@@ -16,6 +16,12 @@ Open-source [Claude skills](https://support.anthropic.com/en/articles/11147069-w
 
 **[Download interview-skills.zip](https://github.com/getclera/claude-skills/releases/latest/download/interview-skills.zip)**
 
+### [AI Todo Inbox](./ai-todo-inbox/) — for founders & busy operators
+
+A persistent todo list inside Claude that fills itself. Claude scans your email, Slack (including saved messages), meeting notes and calendar on a schedule and suggests todos you accept or dismiss. Every task has a **Do it** button that hands Claude the context and a plan.
+
+**[Download ai-todo-inbox.zip](https://github.com/getclera/claude-skills/releases/latest/download/ai-todo-inbox.zip)**
+
 ## How to Install
 
 1. **Enable skills.** Claude.ai → Settings → Capabilities → toggle on "Code execution and file creation."
