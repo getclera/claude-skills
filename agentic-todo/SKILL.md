@@ -1,14 +1,14 @@
 ---
-name: ai-todo-inbox
+name: agentic-todo
 description: >
   Set up a personal, persistent todo list inside Claude that fills itself. Claude scans your email,
   Slack (DMs, mentions, saved messages), meeting notes and calendar on a schedule and drops suggested
   todos into an inbox you accept or dismiss. Every task has a "Do it" button that hands Claude a
   ready-made prompt with the context and a plan. Use when the user asks how to track todos, wants a
-  todo list in Claude, wants todos pulled from email/Slack/meetings, or wants an AI task inbox.
+  todo list in Claude, wants todos pulled from email/Slack/meetings, or wants an AI task inbox or an agentic todo list.
 ---
 
-# AI Todo Inbox
+# Agentic ToDo in Claude
 
 A private todo page published as a claude.ai artifact, backed by the artifact database so it persists across devices and redesigns, plus a scheduled task that suggests new todos from the user's tools.
 
