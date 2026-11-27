@@ -16,9 +16,9 @@ Open-source [Claude skills](https://support.anthropic.com/en/articles/11147069-w
 
 **[Download interview-skills.zip](https://github.com/getclera/claude-skills/releases/latest/download/interview-skills.zip)**
 
-### [Engineering](./engineering/) — for developers
+### [Optimize a Postgres Query](./optimize-postgres-query/) — for developers
 
-[optimize-postgres-query](./engineering/skills/optimize-postgres-query/): fix a slow Postgres query with an `EXPLAIN ANALYZE` baseline, 14 common causes, and an A/B test proving the new query returns identical results.
+[optimize-postgres-query](./optimize-postgres-query/SKILL.md): fix a slow Postgres query with an `EXPLAIN ANALYZE` baseline, 14 common causes, and an A/B test proving the new query returns identical results.
 
 ```bash
 npx skills add getclera/claude-skills --skill optimize-postgres-query
